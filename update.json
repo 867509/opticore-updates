@@ -1,6 +1,6 @@
 {
-  "version": "1.3.0",
-  "downloadUrl": "https://github.com/867509/opticore-updates/releases/download/1.3.0/OptiCore_Setup.msi",
+  "version": "1.4.0",
+  "downloadUrl": "https://github.com/867509/opticore-updates/releases/download/1.4.0/OptiCore_Setup.msi",
   "releaseNotes": "Version initiale.",
   "mandatory": true,
   "publishedAt": "2026-06-30"
