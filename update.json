@@ -1,6 +1,6 @@
 {
-  "version": "1.5.0",
-  "downloadUrl": "https://github.com/867509/opticore-updates/releases/download/1.5.0/OptiCore_Setup.msi",
+  "version": "1.6.0",
+  "downloadUrl": "https://github.com/867509/opticore-updates/releases/download/1.6.0/OptiCore_Setup.msi",
   "releaseNotes": "Correctifs auto-update",
   "mandatory": true,
   "publishedAt": "2026-06-30"
